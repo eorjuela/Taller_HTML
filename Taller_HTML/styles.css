@@ -1,0 +1,96 @@
+
+body {
+    font-family: 'Helvetica';
+    background-color: #f8f9fa;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.title {
+    color: rgb(144, 3, 3);
+    font-family: 'Franklin Gothic Medium';
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+   }
+
+.subtitle {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+   }
+
+.heading {
+    font-family: 'Franklin Gothic Light';
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   }
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 20px;
+  }
+
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 20px;
+  }
+ 
+.link {
+    font-family: 'Franklin Gothic Light';
+    font-size: 18px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   }
+
+.bibliography-section {
+    background-color: #e6f7ff;
+    padding: 20px;
+}
+
+.projects-section {
+    background-color: #ffc0cb;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: justify;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.navbar-nav {
+    text-align: center;
+    font-family: 'Franklin Gothic Light';
+    font-size: 18px;
+    margin: 0 auto;
+    margin-bottom: 20px
+  }
+
+.form{
+    margin-bottom: 30px;
+    text-align: center;
+}
